@@ -1,0 +1,30 @@
+{
+  "name": "tm-plist",
+  "version": "0.1.0",
+  "description": "A parser for TextMate property lists",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwinb/tm-plist.git"
+  },
+  "keywords": [
+    "plist",
+    "old-style",
+    "ASCII-plist",
+    "TextMate",
+    "parser"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alwinb/tm-plist/issues"
+  },
+  "homepage": "https://github.com/alwinb/tm-plist#readme"
+}
