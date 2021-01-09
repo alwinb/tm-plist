@@ -1,10 +1,14 @@
 # TextMate Plists
 
+[![NPM version][npm-image]][npm-url]
+
 A library for parsing the [property list][plist] file format that is used by the TextMate code editor. TextMate uses a format that is extremely close to so called 'old-style' property lists, aka. ASCII property lists, but there are a few small differences. 
 
 The library also contains a basic object model for TextMate grammars. 
 
 [plist]: https://en.wikipedia.org/wiki/Property_list
+[npm-image]: https://img.shields.io/npm/v/tm-plist.svg
+[npm-url]: https://npmjs.org/package/tm-plist
 
 
 ## API
